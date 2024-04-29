@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vine27/invoice-bill-quotation/static/css/main.006f8ede.css",
+    "main.js": "/Vine27/invoice-bill-quotation/static/js/main.d0bac312.js",
+    "index.html": "/Vine27/invoice-bill-quotation/index.html",
+    "main.006f8ede.css.map": "/Vine27/invoice-bill-quotation/static/css/main.006f8ede.css.map",
+    "main.d0bac312.js.map": "/Vine27/invoice-bill-quotation/static/js/main.d0bac312.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.006f8ede.css",
+    "static/js/main.d0bac312.js"
+  ]
+}
