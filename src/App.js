@@ -46,7 +46,7 @@ function App() {
   } = useContext(State);
 
 
-  const [isprint, setIsprint] = useState(false);
+  const [ setIsprint] = useState(false);
   
   const handleIsprint = () => {
     setIsprint(true);
@@ -60,7 +60,7 @@ function App() {
     return () => {
       window.removeEventListener("afterprint", showhide)
     }
-  },[])
+  })
 
   return (
     <>
